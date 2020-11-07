@@ -6,5 +6,10 @@ pip2<br/>
 python3
 
 # Installation
-1)git clone </br>
+1)git clone https://github.com/roshanlouis1122000/gitter</br>
 2)run python3 install.py</br>
+# Usage
+# CLI
+For Linux</br>
+gitter -h    : FOR HELP </br>
+gitter -s <filename>  :FOR SEARCHING
