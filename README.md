@@ -8,8 +8,12 @@ python3
 # Installation
 1)git clone https://github.com/roshanlouis1122000/gitter</br>
 2)run python3 install.py</br>
-# Usage
 # CLI
 For Linux</br>
 gitter -h    : FOR HELP </br>
-gitter -s <filename>  :FOR SEARCHING
+gitter -s <tool_name>  :FOR SEARCHING
+
+# USAGE
+1) Search for the tool you are looking for by :   gitter -s <tool_name>
+2) Select the author you are looking for from the list
+3) Provide the location 
