@@ -17,3 +17,7 @@ gitter -s <tool_name>  :FOR SEARCHING
 1) Search for the tool you are looking for by :   gitter -s <tool_name>
 2) Select the author you are looking for from the list,and enter your choice like 1,2...
 3) Provide the location , for example: /home
+
+# Demo
+The following link is the demonstration of the gitter:
+https://youtu.be/SN57zpr_ozA
